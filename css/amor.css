@@ -30,15 +30,19 @@ pre{
   justify-content: center;
 }
 #coracao{
-	margin: 53rem 3rem;
+	margin: 28rem 3rem;
+	padding: 2rem;
+	justify-content:center;
+	content-box: 30rem 70rem;
 }
+
 #fofa{
   margin: 50rem 3rem ;
-  padding: 0em 10em;
+  padding: 0em 12em;
   text-align: center;
 }
 #m_esposa{
-  margin: 22rem 0rem;
+  margin: 28rem 0rem;
 }
 
 
