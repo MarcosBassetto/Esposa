@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+
+body{
+	background-color: #000000;
+}
+ul{
+	color: white;
+}
+h1{
+	color:purple;
+	font-size: 53px;
+}
+p,a{
+	color: white;
+  font-size: 22px;
+}
+pre{
+	color: red;
+}
+.center {
+  display: block;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+#coracao{
+	margin: 35rem 3rem;
+}
+#fofa{
+  margin: 43rem 3rem ;
+  padding: 0em 10em;
+  text-align: center;
+}
+#m_esposa{
+  margin: 22rem 0rem;
+}
+
+
+@media (min-width: 981px){
+	body{
+			
+		/* background-color:999999; */
+	}
+#coracao{
+margin: 13rem 1rem;
+}
+#fofa{
+  margin: 19rem 1rem ;
+  padding: 0em 25em;
+  text-align: center;
+}
+#m_esposa{
+  margin: 4rem 0rem;
+}
+}
